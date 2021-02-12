@@ -2,6 +2,6 @@
 Simple TO DO LIST uisng Angular
 
 
-TO run the code use the following command:
+To run the code use the following command:
 1. npm install
 2. ng serve
